@@ -1,7 +1,5 @@
 # FRC Team 3560 Reefscape
 
-### 2025
-
 ## Team 3560
 
 Founded in 2011 **FRC Team 3560 Mechawolves** is a school robotics club, located in **Brampton, Ontario**. Our mission is to spark interest in technology by building and programming robots. We focus on **creativity, teamwork, and problem-solving** to prepare members for future **STEM** careers and make a positive impact on our school community.
